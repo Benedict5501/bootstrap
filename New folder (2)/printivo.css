@@ -1,0 +1,30 @@
+.home{
+    text-decoration: underline;
+    text-decoration-color: #6d1830;
+}
+.box{
+    box-sizing: border-box;
+    border: 1px solid  #fff9f2;
+    padding-top: 70px;
+    padding-left: 80px;
+    width: 650px;
+    height: 278px;
+}
+.box-two{
+    box-sizing: border-box;
+    border: none;
+    padding: 25px;
+    width: 100%;
+}
+.box-three{
+    box-sizing: border-box;
+    border: none;
+    width: 100%;
+    margin-top: 50px;
+}
+.iphone{
+    background-image: url(Image/Device.png);
+}
+.first{
+    
+}
